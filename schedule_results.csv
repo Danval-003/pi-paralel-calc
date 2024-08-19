@@ -1,0 +1,11 @@
+Scheduling,Block_Size,Hilos,Tiempo
+static,16,5,0.000598
+static,64,5,0.000405
+static,128,5,0.000400
+dynamic,16,5,0.000737
+dynamic,64,5,0.000385
+dynamic,128,5,0.000367
+guided,16,5,0.000310
+guided,64,5,0.000305
+guided,128,5,0.000298
+auto,N/A,5,0.000395
